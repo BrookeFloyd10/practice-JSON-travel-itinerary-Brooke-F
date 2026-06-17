@@ -1,0 +1,42 @@
+{
+    "tripName": "Big Vacation Adventure", 
+    "traveler" : {
+        "name" : "Elle Woods",
+        "contact" :{
+            "email" : "john@email.com",
+            "phone number" : "+1-555-222-2345"
+        }
+    },
+     "destinations" : [
+        {
+            "locations" : "Paris",
+            "arrivalDate" : "2026-08-17",
+            "departureDate" : "2026-08-12",
+            "activities" : [ 
+                {
+                "title": "Eiffel Tower Tour",
+                "time": "10:00 AM"
+                },
+                {
+                "title": "Louvre Museum Visit",
+                "time": "2:00 PM"
+                }
+            ]
+        },
+           {
+            "location": "Barcelona",
+            "arrivalDate": "2026-07-18",
+            "departureDate": "2026-07-22",
+            "activities": [
+                {
+                "title": "Sagrada Familia Visit",
+                "time": "11:00 AM"
+                },
+                {
+          "title": "Park Guell Walking Tour",
+          "time": "3:00 PM"
+                }
+            ]
+        }
+    ]   
+}
